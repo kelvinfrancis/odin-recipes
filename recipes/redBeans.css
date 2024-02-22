@@ -1,0 +1,23 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1,
+h2{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.543);
+    color: white;
+    border-radius: 8px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    border-radius: 8px;
+}
+
+body {
+    background-color: rgba(184, 135, 11, 0.625);
+}
